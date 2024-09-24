@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ometche.github.io/sitemap.html.gz
+Sitemap: https://ometche.github.io/app/sitemap.html.gz
+Sitemap: https://ometche.github.io/assets/sitemap.html.gz
+Sitemap: https://ometche.github.io/css/sitemap.html.gz
+Sitemap: https://ometche.github.io/data/sitemap.html.gz
+Sitemap: https://ometche.github.io/includes/sitemap.html.gz
+Sitemap: https://ometche.github.io/item/sitemap.html.gz
+Sitemap: https://ometche.github.io/src/sitemap.html.gz
